@@ -1,5 +1,7 @@
+**Coffee Sales Data Analysis & Visualization using Excel**
+
 **Project Overview**
-This project focuses on analyzing and visualizing coffee sales data using Microsoft Excel. It incorporates various data analysis techniques, including Power Query transformations, Pivot Tables, and interactive dashboards to extract meaningful insights.
+- This project focuses on analyzing and visualizing coffee sales data using Microsoft Excel. It incorporates various data analysis techniques, including Power Query transformations, Pivot Tables, and interactive dashboards to extract meaningful insights.
 
 **Key Features**
 - **Data Cleaning & Transformation:**
